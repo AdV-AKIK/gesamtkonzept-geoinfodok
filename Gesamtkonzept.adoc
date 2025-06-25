@@ -72,7 +72,7 @@ Schreibhilfe für Stereotypen:
 ---
 
 
-Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV).
+Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV)
 
 
 include::kapitel_dokumenthistorie.adoc[]
